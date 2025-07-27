@@ -1,7 +1,12 @@
 # cripple-ai-retardation-with-es-lint-rules
 
-This project provides a set of custom ESLint rules designed to enforce safer, more maintainable patterns for environment variable access in Node.js applications. By preventing raw process.env usage and requiring all environment variables to be explicitly declared and validated, these rules catch potential issues early in development—helping to prevent runtime errors and reducing the likelihood of “retarded” mistakes due to misconfigured environments. As the author puts it: “done with vibecoding.”
+This project delivers custom ESLint rules to enforce safer, more maintainable patterns in Node.js codebases. For example, the rules prevent unsafe access to environment variables by discouraging direct process.env usage and requiring explicit declaration and validation. These safeguards help identify potential issues early in development, reducing runtime errors and minimizing the risk of “retarded” mistakes caused by misconfigured environments. 
 
+_The project is, in the author’s words, “done with vibecoding.”_
+
+> yea, make llm write shit to stop being so shitty in writing shit
+
+Let me know if you want further changes or if you’d 
 ## Rules
 
 | Rule File                                                       | Description                                                                                                |
