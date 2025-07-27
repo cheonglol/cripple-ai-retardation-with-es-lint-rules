@@ -6,7 +6,6 @@ _The project is, in the author’s words, “done with vibecoding.”_
 
 > yea, make llm write shit to stop being so shitty in writing shit
 
-Let me know if you want further changes or if you’d 
 ## Rules
 
 | Rule File                                                       | Description                                                                                                |
